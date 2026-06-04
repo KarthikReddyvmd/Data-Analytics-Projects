@@ -178,3 +178,5 @@ This project successfully identifies the primary drivers of healthcare spending 
 B.Tech Computer Science and Engineering
 Data Analytics & Business Intelligence Enthusiast
 Power BI | Excel | SQL | Data Visualization
+
+[![RepoRanker](https://reporanker.com/badge/KarthikReddyvmd/Data-Analytics-Projects)](https://reporanker.com/repos/KarthikReddyvmd/Data-Analytics-Projects)
